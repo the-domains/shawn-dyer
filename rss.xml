@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shawn Dyer | Filmmaker]]></title>
+        <description><![CDATA[Shawn Dyer | Filmmaker]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Dec 2015 16:55:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Time Post ]]></title>
+            <description><![CDATA[<article><h1>First Time Post </h1><p>This is my first Grid post. I feel pretty comfortable with the interface after only five minutes of use, however it still has a long way to go as there are no REAL font choices. There are some things that I think should be within the users control.</p></article>]]></description>
+            <link>undefinedfirst-time-post/index.html</link>
+            <guid isPermaLink="false">2a04d314-f8cd-471d-8886-59a781f1a773</guid>
+            <pubDate>Sat, 05 Dec 2015 16:52:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
