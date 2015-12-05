@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Shawn Dyer | Filmmaker]]></title>
         <description><![CDATA[Shawn Dyer | Filmmaker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shawn-dyer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 16:55:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Dec 2015 17:02:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shawn-dyer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e827536e-658c-4d92-a736-191ff6ee3562.jpg">]]></description>
+            <link>https://thegrid.ai/shawn-dyer/f9b901eb-aa43-4924-b905-f856d252628f/index.html</link>
+            <guid isPermaLink="false">f9b901eb-aa43-4924-b905-f856d252628f</guid>
+            <pubDate>Sat, 05 Dec 2015 17:02:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Time Post ]]></title>
             <description><![CDATA[<article><h1>First Time Post </h1><p>This is my first Grid post. I feel pretty comfortable with the interface after only five minutes of use, however it still has a long way to go as there are no REAL font choices. There are some things that I think should be within the users control.</p></article>]]></description>
-            <link>undefinedfirst-time-post/index.html</link>
+            <link>https://thegrid.ai/shawn-dyer/first-time-post/index.html</link>
             <guid isPermaLink="false">2a04d314-f8cd-471d-8886-59a781f1a773</guid>
             <pubDate>Sat, 05 Dec 2015 16:52:28 GMT</pubDate>
         </item>
