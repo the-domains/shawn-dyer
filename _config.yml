@@ -1,7 +1,7 @@
 name: Shawn Dyer
 favicon: null
-layout_spectrum: 0.9497914114035666
-typography_spectrum: 0.457615363644436
+layout_spectrum: 0.99369
+typography_spectrum: 0
 title: 'Shawn Dyer | Filmmaker'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#3e7bcb'
+    - '#715e24'
+    - '#001333'
+    - '#bca562'
   brandStrength: 0.19215486105531454
   lightness: 0.3563737564254552
   saturation: 0.9846641465555876
