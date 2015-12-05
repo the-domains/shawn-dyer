@@ -1,0 +1,28 @@
+name: Shawn Dyer
+favicon: null
+layout_spectrum: 0.9497914114035666
+typography_spectrum: 0.457615363644436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.19215486105531454
+  lightness: 0.3563737564254552
+  saturation: 0.9846641465555876
+  rhythmicContrast: 0.602562882238999
+purpose: []
